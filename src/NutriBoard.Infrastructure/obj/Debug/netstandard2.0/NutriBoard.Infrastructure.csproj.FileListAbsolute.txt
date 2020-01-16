@@ -1,0 +1,12 @@
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Infrastructure\bin\Debug\netstandard2.0\NutriBoard.Core.dll
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Infrastructure\obj\Debug\netstandard2.0\NutriBoard.Infrastructure.csprojAssemblyReference.cache
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Infrastructure\obj\Debug\netstandard2.0\NutriBoard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Infrastructure\obj\Debug\netstandard2.0\NutriBoard.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Infrastructure\obj\Debug\netstandard2.0\NutriBoard.Infrastructure.AssemblyInfo.cs
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Infrastructure\bin\Debug\netstandard2.0\NutriBoard.Infrastructure.deps.json
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Infrastructure\bin\Debug\netstandard2.0\NutriBoard.Infrastructure.dll
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Infrastructure\bin\Debug\netstandard2.0\NutriBoard.Infrastructure.pdb
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Infrastructure\bin\Debug\netstandard2.0\NutriBoard.Core.pdb
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Infrastructure\obj\Debug\netstandard2.0\NutriBoard.Infrastructure.csproj.CopyComplete
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Infrastructure\obj\Debug\netstandard2.0\NutriBoard.Infrastructure.dll
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Infrastructure\obj\Debug\netstandard2.0\NutriBoard.Infrastructure.pdb

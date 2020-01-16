@@ -1,0 +1,9 @@
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Core\bin\Debug\netstandard2.0\NutriBoard.Core.deps.json
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Core\bin\Debug\netstandard2.0\NutriBoard.Core.dll
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Core\bin\Debug\netstandard2.0\NutriBoard.Core.pdb
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Core\obj\Debug\netstandard2.0\NutriBoard.Core.csprojAssemblyReference.cache
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Core\obj\Debug\netstandard2.0\NutriBoard.Core.csproj.CoreCompileInputs.cache
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Core\obj\Debug\netstandard2.0\NutriBoard.Core.AssemblyInfoInputs.cache
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Core\obj\Debug\netstandard2.0\NutriBoard.Core.AssemblyInfo.cs
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Core\obj\Debug\netstandard2.0\NutriBoard.Core.dll
+C:\Users\JP-Dev\Development\NutriBoard\src\NutriBoard.Core\obj\Debug\netstandard2.0\NutriBoard.Core.pdb
