@@ -9,7 +9,7 @@ namespace NutriBoard.Web.ViewModels
     public class NutriMetricsViewModel
     {
         [Required]
-        public DateTime Date { get; set; }
+        public string Date { get; set; }
         public int Protein { get; set; }
         public int Carbohydrates { get; set; }
         public int Fats { get; set; }

@@ -13,6 +13,8 @@ namespace NutriBoard.Web.ViewModels
         {
             CreateMap<User, UserDto>();
             CreateMap<UserDto, User>();
+            CreateMap<NutriMetrics, NutriMetricsViewModel>();
+            CreateMap<NutriMetricsViewModel, NutriMetrics>();
 
         }
     }

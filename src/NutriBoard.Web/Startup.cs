@@ -35,7 +35,7 @@ namespace NutriBoard.Web
             {
                 //Only for testing
                 //options.UseInMemoryDatabase("");
-                options.UseSqlServer(Configuration.GetConnectionString("NutriBoard"));
+                options.UseSqlServer(Configuration.GetConnectionString("NutriBoardDb"));
             });
 
             services.AddScoped<IUserService, UserService>();

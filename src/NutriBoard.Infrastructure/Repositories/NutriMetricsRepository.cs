@@ -41,9 +41,24 @@ namespace NutriBoard.Infrastructure.Repositories
         public async Task<IEnumerable<NutriMetrics>> GetAllMetricsAsync()
         {
             return await _context.NutriMetrics
-                .OrderByDescending(x => x.MetricId)
+                .OrderByDescending(x => x.Id)
                 .ToListAsync();
                 
+        }
+
+        //This is set to IEnumerable because there might be a case where there are two entries on that day
+        public async Task<IEnumerable<NutriMetrics>> GetNutriMetricsByDateAsync(string date)
+        {
+            return await _context.NutriMetrics
+                 .Where(d => d.Date == date)
+                 .ToListAsync();
+        }
+
+        public async Task<NutriMetrics> GetNutriMetricsById(int id)
+        {
+            return await _context.NutriMetrics
+                .Where(x => x.Id == id)
+                .FirstOrDefaultAsync();
         }
 
         public async Task<bool> SaveChangesAsync()

@@ -6,8 +6,8 @@ namespace NutriBoard.Core.Entities
 {
     public class NutriMetrics
     {
-        public int MetricId { get; set; }
-        public DateTime Date { get; set; }
+        public int Id { get; set; }
+        public string Date { get; set; }
         public int Protein { get; set; }
         public int Carbohydrates { get; set; }
         public int Fats { get; set; }

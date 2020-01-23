@@ -16,6 +16,9 @@ namespace NutriBoard.Infrastructure.Repositories
 
         Task<IEnumerable<NutriMetrics>> GetAllMetricsAsync();
 
-       
+        Task<IEnumerable<NutriMetrics>> GetNutriMetricsByDateAsync(string date);
+
+        Task<NutriMetrics> GetNutriMetricsById(int id);
+
     }
 }
